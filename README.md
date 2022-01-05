@@ -1,1 +1,5 @@
-# BMI-Calculator
+# BMI-Calculator![Screen Shot 2022-01-05 at 8 56 16 PM](https://user-images.githubusercontent.com/77071935/148264697-a358bcca-dcd5-4161-b5d0-63338ff2a6e3.png)
+![Screen Shot 2022-01-05 at 8 56 29 PM](https://user-images.githubusercontent.com/77071935/148264735-816684a5-48d5-47a6-8c1e-af79c6e8ce24.png)
+![Screen Shot 2022-01-05 at 8 56 41 PM](https://user-images.githubusercontent.com/77071935/148264748-53003f91-fe37-4a7b-bb1a-ee04e3e2f7f0.png)
+![Screen Shot 2022-01-05 at 8 56 53 PM](https://user-images.githubusercontent.com/77071935/148264756-8bcd0245-0f6d-4b53-a2af-7c2220445360.png)
+![Screen Shot 2022-01-05 at 8 56 58 PM](https://user-images.githubusercontent.com/77071935/148264774-f3633b72-7c21-4044-b406-8be65f5fb568.png)
